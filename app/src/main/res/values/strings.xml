@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="reset">Reset</string>
+    <string name="score">Score</string>
+    <string name="toast">!!Reset Done!!</string>
+    <string name="resultScore">You scored : \t </string>
+    <string name="error">Cannot Evaluate EMPTY Quiz!</string>
+    <string name="dogImgDesc">Dog Image 32X32</string>
+    <string name="warn">Press RESET to Submit again</string>
+    <!--Question 1-->
+    <string name="ques_1">Q1. Which is the <b>fastest</b> breed of dog that can run at 44 Miles Per/Hour.</string>
+    <string name="que1_op1">Rottweiler</string>
+    <string name="que1_op2">GreyHound</string>
+    <string name="que1_op3">Doberman</string>
+    <string name="que1_op4">German Shepherd</string>
+    <!--Question 2-->
+    <string name="ques_2">Q2. Name the Breed of dog that cannot <b>Bark</b> but they can <b>Yodel</b>?</string>
+    <string name="que2_op1">Basenji</string>
+    <string name="que2_op2">Pomeranian</string>
+    <string name="que2_op3">Boxer</string>
+    <string name="que2_op4">None of the above</string>
+    <!--Question 3-->
+    <string name="ques_3">Q3. Name the world"'"s Oldest breed of dog that originated in Egypt around 329 B.C.</string>
+    <string name="hint">Answer Here</string>
+    <!--Question 4-->
+    <string name="ques_4">Q4. Select the <b>Heaviest</b> breed of dog.</string>
+    <string name="que4_op1">Siberian Husky</string>
+    <string name="que4_op2">Mastiff</string>
+    <!--Question 5-->
+    <string name="ques_5">Q5. Dogs who bark the most.</string>
+    <string name="que5_op1">Cairn Terriers</string>
+    <string name="que5_op2">Fox Terrier</string>
+    <string name="que5_op3">Saint Bernard</string>
+    <string name="que5_op4">Beagle</string>
+    <!--Question 6-->
+    <string name="ques_6">Q6. Dogs can see best at <b>Dawn</b> and <b>Dusk</b></string>
+    <string name="que6_op1">Yes</string>
+    <string name="que6_op2">No</string>
+
+</resources>
